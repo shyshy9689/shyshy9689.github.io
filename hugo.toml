@@ -1,0 +1,10 @@
+baseURL = 'https://shyshy9689.github.io/'
+languageCode = 'zh-cn'
+title = 'shyshy的博客'
+theme = 'PaperMod'
+author = "shyshy"
+hasCJKLanguage = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
