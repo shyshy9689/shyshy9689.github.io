@@ -5,6 +5,10 @@ theme = 'PaperMod'
 author = "shyshy"
 hasCJKLanguage = true
 
+
 [markup.goldmark.renderer]
   unsafe = true
+
+[params]
+  DateFormat = "2006年1月2日"
 
