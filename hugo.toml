@@ -2,13 +2,30 @@ baseURL = 'https://shyshy9689.github.io/'
 languageCode = 'zh-cn'
 title = 'shyshy的博客'
 theme = 'PaperMod'
-author = "shyshy"
+author = 'shyshy'
+copyright = '@2026 [shyshy](https://shyshy9689.github.io/)'
 hasCJKLanguage = true
 
+defaultContentLanguage = 'zh'
 
 [markup.goldmark.renderer]
-  unsafe = true
+  unsafe = true # md文档启用html格式
 
 [params]
-  DateFormat = "2006年1月2日"
+  DateFormat = '2006年1月2日'
+  [params.homeInfoParams]
+    Title = 'Hello 欢迎'
+    Content = '想写点逆向分析和犯罪心理分析...'
+  [[params.socialIcons]]
+  name = 'github'
+  url = 'https://shyshy9689.github.io'
+
+  [[params.socialIcons]]
+  name = 'qq'
+  url = 'https://qm.qq.com/q/c5YvKMqehq'
+
+  [[params.socialIcons]]
+  name = 'bilibili'
+  url = 'https://space.bilibili.com/2115133425?spm_id_from=333.337.0.0'
+      
 

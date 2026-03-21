@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CriminalPsychologies on shyshy的博客</title>
-    <link>https://shyshy9689.github.io/criminalpsychology/</link>
+    <link>http://localhost:1313/criminalpsychology/</link>
     <description>Recent content in CriminalPsychologies on shyshy的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
+    <copyright>@2026 shyshy</copyright>
     <lastBuildDate>Fri, 20 Mar 2026 21:32:10 +0800</lastBuildDate>
-    <atom:link href="https://shyshy9689.github.io/criminalpsychology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/criminalpsychology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>亲密关系中的危险信号：非致命扼颈</title>
-      <link>https://shyshy9689.github.io/criminalpsychology/non-fatalstrangulation/</link>
+      <link>http://localhost:1313/criminalpsychology/non-fatalstrangulation/</link>
       <pubDate>Fri, 20 Mar 2026 21:32:10 +0800</pubDate>
-      <guid>https://shyshy9689.github.io/criminalpsychology/non-fatalstrangulation/</guid>
-      <description>&lt;p&gt;说到扼颈，我的第一反应就是：这是一个很强的控制行为，因为这个行为高度控制了受害者的呼吸和生命，释放了强烈控制感。这个攻击的方式，从攻击手段和工具有可能可以看出攻击者的身高、力量和思维，比如如果从背后勒颈的话，说明攻击者有可能身高更高、可能不能正面面对受害者，愧对受害者。一般来说，扼颈是一个冲动型的行为，因为如果如果没有 100% 的考虑思量，很有可能留下证据，比如被受害者抓伤。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/criminalpsychology/non-fatalstrangulation/</guid>
+      <description>&lt;p&gt;说到扼颈，我的第一反应就是：这是一个很强的控制行为，因为这个行为高度控制了受害者的呼吸和生命，释放了强烈控制感。这个攻击的方式，从攻击手段和工具有可能可以看出攻击者的身高、力量和思维，比如如果从背后勒颈的话，说明攻击者有可能身高更高、可能不能正面面对受害者，愧对受害者。一般来说，谋杀手段里扼杀是一时冲动型的行为，如果没有周到的考虑思量，也有可能留下证据，比如被受害者抓伤。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
