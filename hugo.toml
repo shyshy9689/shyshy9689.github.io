@@ -5,7 +5,7 @@ theme = 'PaperMod'
 author = 'shyshy'
 copyright = '@2026 [shyshy](https://shyshy9689.github.io/)'
 hasCJKLanguage = true
-
+enableGitInfo = true
 defaultContentLanguage = 'zh'
 
 [markup.goldmark.renderer]
@@ -13,6 +13,8 @@ defaultContentLanguage = 'zh'
 
 [params]
   DateFormat = '2006年1月2日'
+  ShowLastMod = true
+  ShowWordCount = true
   [params.homeInfoParams]
     Title = 'Hello 欢迎'
     Content = '想写点逆向分析和犯罪心理分析...'
